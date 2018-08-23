@@ -1,0 +1,2 @@
+# localmock
+local mock
