@@ -1,0 +1,20 @@
+{
+  "name": "localmock",
+  "version": "1.0.0",
+  "description": "local mock",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supervisor index.js"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "liuw",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "express": "^4.16.3",
+    "mockjs": "^1.0.1-beta3",
+    "supervisor": "^0.12.0"
+  }
+}
